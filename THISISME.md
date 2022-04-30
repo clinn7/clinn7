@@ -13,7 +13,7 @@ my own and colleagues' ideas a reality.
 
     -pyodbc
 
-    -config
+    -configparser
 
     -envelope
 
